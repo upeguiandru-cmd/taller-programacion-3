@@ -6,3 +6,16 @@ Proyecto con la implementación orientada a objetos de:
 - Clase principal: `Main.java`
 
 ## 📂 Estructura
+
+## ⚙️ Requisitos
+- Java JDK 11 o superior  
+- Git
+
+## ▶️ Cómo compilar y ejecutar
+Desde la raíz del proyecto:
+
+```bash
+cd src
+javac *.java
+cd ..
+java -cp src Main
